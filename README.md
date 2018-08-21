@@ -6,7 +6,7 @@ This repo is a place to share our work, provide feedback, and help support each 
 
 * [Read about the 2016 challenge](http://blog.stephaniebriones.com/2016/10/02/october-design-challenge.html)
 
-* [Take a look at the projects](https://trello.com/b/enFpLVAz/october-design-challenge)
+* [Take a look at the 2016 projects](https://trello.com/b/enFpLVAz/october-design-challenge)
 
 If you have any questions or suggestions for our upcoming challenges, you can email me at smbriones@gmail.com.
 
